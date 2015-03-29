@@ -1,0 +1,37 @@
+sudo apt-get install bash-completion
+sudo apt-get install bison
+sudo apt-get install build-essential
+sudo apt-get install cmake
+sudo apt-get install curl
+sudo apt-get install doxygen
+sudo apt-get install fakeroot
+sudo apt-get isntall file
+sudo apt-get install flex
+sudo apt-get install gdb
+sudo apt-get install git
+sudo apt-get install gitk
+sudo apt-get install gnupg2
+sudo apt-get install lcov
+sudo apt-get install libxml2-utils
+sudo apt-get install libxml2-dev
+sudo apt-get install locate
+sudo apt-get install obnam
+sudo apt-get install openssh-server
+sudo apt-get install python-pip
+sudo apt-get install pmount
+sudo apt-get install python
+sudo apt-get install reprepro
+sudo apt-get install rsync
+sudo apt-get install screen
+sudo apt-get install siege
+sudo apt-get install sshfs
+sudo apt-get install tree
+sudo apt-get install vim
+sudo apt-get install python-virtualenv
+sudo apt-get install telnet
+sudo apt-get install valgrind
+
+# Cross compiling
+dpkg --add-architecture <arch>
+sudo apt-get install g++-4.9-multilib
+sudo apt-get install gcc-4.9-multilib 

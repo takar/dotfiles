@@ -1,0 +1,9 @@
+[user]
+	email = info@takar.nl
+	name = Tamar Kranenburg
+[push]
+	default = simple
+[color]
+	ui = true
+[core]
+	excludesfile = ~/.gitignore
