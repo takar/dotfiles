@@ -3,9 +3,7 @@ set expandtab
 set shiftwidth=4
 set softtabstop=4
 set autoindent
-set number
 set nowrap
 set colorcolumn=80
 set wildmenu
-set mouse=a
 set autoread
