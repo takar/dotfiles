@@ -1,9 +1,10 @@
 syntax on
+set autoindent
+set autoread
+set colorcolumn=80
 set expandtab
+set nowrap
+set ruler
 set shiftwidth=4
 set softtabstop=4
-set autoindent
-set nowrap
-set colorcolumn=80
 set wildmenu
-set autoread
