@@ -4,6 +4,7 @@ set colorcolumn=80
 set nowrap
 set ruler
 set wildmenu
+set nonumber
 
 " virtual tabstops using spaces
 set shiftwidth=4
