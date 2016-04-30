@@ -1,6 +1,7 @@
 syntax on
 set autoindent
 set colorcolumn=80
+set tw=80
 set nowrap
 set ruler
 set wildmenu
