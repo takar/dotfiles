@@ -29,3 +29,6 @@ map <F9> mz:execute TabToggle()<CR>'z
 " autoreload and save
 au FocusGained,BufEnter * :silent! !
 au FocusLost,WinLeave * :silent! w
+
+" Pathogen plugin manager
+execute pathogen#infect()
