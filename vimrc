@@ -1,11 +1,12 @@
 syntax on
 set autoindent
 set colorcolumn=80
-set tw=80
+set nonumber
 set nowrap
 set ruler
+set smartcase
+set tw=80
 set wildmenu
-set nonumber
 
 " virtual tabstops using spaces
 set shiftwidth=4
