@@ -5,7 +5,6 @@ set nonumber
 set nowrap
 set ruler
 set smartcase
-set tw=80
 set wildmenu
 
 " virtual tabstops using spaces
