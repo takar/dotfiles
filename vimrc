@@ -12,6 +12,9 @@ set shiftwidth=4
 set softtabstop=4
 set expandtab
 
+" Set backspace to expected behaviour
+set backspace=indent,eol,start
+
 " allow toggling between local and default mode
 function TabToggle()
   if &expandtab
