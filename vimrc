@@ -31,6 +31,9 @@ map <F9> mz:execute TabToggle()<CR>'z
 au FocusGained,BufEnter * :silent! !
 au FocusLost,WinLeave * :silent! w
 
+" Remove trailing whitespace before writing buffer
+autocmd BufWritePre *.py,*.c,*.h,*.cpp,*.php,*.css,*.htm,*.html :%s/\s\+$//e
+
 " Pathogen plugin manager
 execute pathogen#infect()
 
