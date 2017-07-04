@@ -28,3 +28,6 @@
 # Python
 *.pyc
 *.egg-info
+
+# Qt
+Arclight.pro.user
