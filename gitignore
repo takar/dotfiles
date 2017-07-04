@@ -31,3 +31,6 @@
 
 # Qt
 Arclight.pro.user
+
+# Vim / YouCompleteMe / CMake projects
+compile_commands.json
