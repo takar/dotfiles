@@ -9,3 +9,5 @@
 	ui = auto
 [log]
 	decorate = auto
+[help]
+	autocorrect = 10
